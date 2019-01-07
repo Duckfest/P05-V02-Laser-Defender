@@ -1,5 +1,9 @@
 ## P05-V02-Laser-Defender 
 
+###
+Playable game at:
+https://duckfest.github.io/P05-V02-Laser-Defender/BuildFolder/V02B01/index.html
+
 ##### Credits  
 Course & counseling - Ben Tristem, Brice Fernandes, Gamedev community, special thanks to Alex Stusse  
 Original game - Space Invaders スペースインベーダ, Nishikado Tomohiro	西角 友宏, Taito Corporation			株式会社タイト  
